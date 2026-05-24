@@ -1,19 +1,22 @@
-# 👋 Hey, I'm Michael
+# 👋 Hey there, I'm Michael
 
-Full‑stack developer and 3rd‑year college student who loves building apps — mobile, web, or anything that solves real problems.  
-I enjoy creating clean UI, smooth UX, and functional systems powered by modern tech.
+A Filipino full‑stack developer and 3rd‑year college student who loves building apps — mobile, web, or anything that solves real problems.  
+I’m always willing to learn, grow, and be trained to improve my skills as a developer.
 
 ---
 
 ## 🚀 About Me
-- 🎓 3rd‑year college student at **PHINMA COC**
+- 🇵🇭 Filipino developer based in PHINMA COC  
+- 🎓 3rd‑year college student taking IT‑related courses  
 - 🛠️ Former **Student Assistant (SA)** under **PHINMA Education**
-  - Handled **ID Station operations**
+  - Operated and managed the **ID Station**
   - Assisted students with **account password resets**
   - Provided frontline tech support and troubleshooting
 - 💻 Full‑stack developer (frontend + backend)
+- 🗄️ Familiar with **SQL**, relational database architecture, and schema design
+- ☕ Experienced with **Java** (OOP, backend logic, data structures)
 - 📱 Passionate about mobile dev with **Expo** & **React Native**
-- 🌐 Building web apps with **Next.js**
+- 🌐 Building modern web apps with **Next.js**
 - 🗄️ Using **Supabase** for auth, database, and realtime features
 - ⚙️ I love exploring all kinds of tech — if it builds something, I’m interested
 - 🎯 Always learning, always shipping
@@ -28,7 +31,8 @@ I enjoy creating clean UI, smooth UX, and functional systems powered by modern t
 
 ### Backend
 - **Supabase**, Node.js, Express, PostgreSQL  
-- REST APIs, Edge Functions
+- SQL (queries, normalization, schema design)  
+- Java (OOP, backend logic)
 
 ### Tools & Workflow
 - VS Code, GitHub, Continue.dev, TypeScript  
