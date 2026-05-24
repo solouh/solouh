@@ -66,5 +66,9 @@ I’m always willing to learn, grow, and be trained to improve my skills as a de
 ---
 
 ## 🤝 Let’s Connect
-If you like my work, feel free to follow, star my repos, or reach out.
+I'm always open to collaboration, opportunities, or just connecting with fellow developers.
+
+- 📧 Email: michaelangelocapearanding@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/michael-angelo-aranding-9bb562411/ 
+- 🌐 Portfolio: (coming soon)
 
