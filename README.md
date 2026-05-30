@@ -70,5 +70,5 @@ I'm always open to collaboration, opportunities, or just connecting with fellow 
 
 - 📧 Email: michaelangelocapearanding@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/michael-angelo-aranding-9bb562411/ 
-- 🌐 Portfolio: (coming soon)
+- 🌐 Portfolio: https://sulosdev.vercel.app/
 
