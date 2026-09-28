@@ -76,24 +76,25 @@ I’m always willing to learn, grow, and be trained to improve my skills as a de
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=solouh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=solouh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=solouh&theme=github_dark" alt="GitHub Stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solouh&theme=github_dark" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=solouh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solouh&theme=github_dark" alt="Profile Details" />
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/0e75b6/solouh" alt="Contribution Chart" width="100%" />
+<img height="195" src="https://streak-stats.demolab.com?user=solouh&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solouh&theme=github_dark&utcOffset=8" alt="Commits by Hour" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solouh&theme=tokyonight" alt="Profile Details" width="100%" />
+<img width="100%" src="https://ghchart.rshah.org/0e75b6/solouh" alt="Contribution Chart" />
 
 </div>
 
@@ -158,3 +159,4 @@ I'm always open to collaboration, opportunities, or just connecting with fellow 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer)
 
 </div>
+
