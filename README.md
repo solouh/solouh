@@ -3,23 +3,6 @@
 A Filipino full‑stack developer and 3rd‑year college student who loves building apps — mobile, web, or anything that solves real problems.  
 I’m always willing to learn, grow, and be trained to improve my skills as a developer.
 
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" alt="Pixel hoodie dev in front of a wall of computers" width="100%" />
-
-<br/><br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Mobile+Dev+with+Expo+%26+React+Native;Next.js+%2B+Supabase+Enthusiast;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Followers](https://img.shields.io/github/followers/solouh?label=Followers&style=flat&color=0e75b6)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=solouh.solouh)
-
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -41,12 +24,6 @@ I’m always willing to learn, grow, and be trained to improve my skills as a de
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,postgres,supabase,java,git,github,vscode&perline=6" alt="My Skills" />
-
-</div>
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -76,7 +53,7 @@ I’m always willing to learn, grow, and be trained to improve my skills as a de
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -85,16 +62,7 @@ I’m always willing to learn, grow, and be trained to improve my skills as a de
 
 <br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solouh&theme=github_dark" alt="Profile Details" />
-
-<br/><br/>
-
 <img height="195" src="https://streak-stats.demolab.com?user=solouh&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solouh&theme=github_dark&utcOffset=8" alt="Commits by Hour" />
-
-<br/><br/>
-
-<img width="100%" src="https://ghchart.rshah.org/0e75b6/solouh" alt="Contribution Chart" />
 
 </div>
 
@@ -125,20 +93,6 @@ I’m always willing to learn, grow, and be trained to improve my skills as a de
 
 ---
 
-## ☕ Beyond the Code
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
-<br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
-
-</div>
-
----
-
 ## 🤝 Let’s Connect
 I'm always open to collaboration, opportunities, or just connecting with fellow developers.
 
@@ -149,14 +103,3 @@ I'm always open to collaboration, opportunities, or just connecting with fellow 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sulosdev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sulosdev.vercel.app/)
 
 </div>
-
----
-
-<div align="center">
-
-### ⭐ “Always learning, always shipping.”
-
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer)
-
-</div>
-
