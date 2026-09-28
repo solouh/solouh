@@ -5,12 +5,18 @@ I’m always willing to learn, grow, and be trained to improve my skills as a de
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=0e75b6)
+<img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" alt="Pixel hoodie dev in front of a wall of computers" width="100%" />
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Mobile+Dev+with+Expo+%26+React+Native;Next.js+%2B+Supabase+Enthusiast;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
+
+<br/>
+
+![Followers](https://img.shields.io/github/followers/solouh?label=Followers&style=flat&color=0e75b6)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=solouh.solouh)
 
 </div>
 
@@ -36,6 +42,12 @@ I’m always willing to learn, grow, and be trained to improve my skills as a de
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,postgres,supabase,java,git,github,vscode&perline=6" alt="My Skills" />
+
+</div>
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -50,7 +62,7 @@ I’m always willing to learn, grow, and be trained to improve my skills as a de
 
 ### Backend
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -68,20 +80,20 @@ I’m always willing to learn, grow, and be trained to improve my skills as a de
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Michael's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=solouh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=solouh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=solouh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/0e75b6/solouh" alt="Contribution Chart" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solouh&theme=tokyonight" alt="Profile Details" width="100%" />
 
 </div>
 
@@ -109,6 +121,20 @@ I’m always willing to learn, grow, and be trained to improve my skills as a de
 - Improve UI/UX design skills  
 - Explore AI‑powered development tools  
 - Create open‑source templates for Expo + Supabase
+
+---
+
+## ☕ Beyond the Code
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+<br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
+
+</div>
 
 ---
 
